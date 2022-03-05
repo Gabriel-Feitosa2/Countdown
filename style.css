@@ -7,8 +7,10 @@ body {
 #centro{
     align-items: center;
     margin:100px;
-    width: 700px;
-    bottom: 700px;
+    width: 650px;
+    height: 450px;
+    max-width: 650px;
+    min-width: 320px;
 }
 h1{
     color: rgba(108, 99, 255, 1);
